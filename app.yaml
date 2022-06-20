@@ -1,0 +1,7 @@
+runtime: python37
+
+env_variables:
+  CLOUD_SQL_USERNAME: ardi
+  CLOUD_SQL_PASSWORD: firmansyah
+  CLOUD_SQL_DATABASE_NAME: growth_h
+  CLOUD_SQL_CONNECTION_NAME: capstone-352316:us-central1:api
